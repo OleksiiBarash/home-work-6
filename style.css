@@ -6,41 +6,23 @@
 
 .cards-one {
     text-align: center;
-
 }
 
 .cards-two {
     text-align: center;
 }
 
-.lol {
+.card {
+    vertical-align: top;
     display: inline-block;
     border: 10px ridge rebeccapurple;
-    height: 600px;
     width: 304px;
 }
 
-.lor {
-    display: inline-block;
-    border: 10px ridge rebeccapurple;
-    height: 600px;
-    width: 304px;
+h2 {
+    font-size: 20px;
 }
 
-.tft {
-    display: inline-block;
-    border: 10px ridge rebeccapurple;
-    height: 600px;
-    width: 304px;
-}
-
-.valorant {
-    display: inline-block;
-    border: 10px ridge rebeccapurple;
-    height: 600px;
-    width: 304px;
-}
-
-.ptext {
-    font-weight: 900;
+.card-text {
+    margin-bottom: 34px;
 }
